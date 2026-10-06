@@ -9,6 +9,7 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 | [0014-longest-common-prefix](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1732-find-the-highest-altitude](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
@@ -47,4 +48,8 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1748-sum-of-unique-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
