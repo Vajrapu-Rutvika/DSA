@@ -9,6 +9,7 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 | [0014-longest-common-prefix](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0485-max-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -30,10 +31,12 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -46,6 +49,7 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Vajrapu-Rutvika/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -59,4 +63,9 @@ A collection of my LeetCode solutions implemented in Python. This repository tra
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vajrapu-Rutvika/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
